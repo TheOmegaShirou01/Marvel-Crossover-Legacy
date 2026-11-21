@@ -1,5 +1,5 @@
 # Marvel-Crossover-Legacy (BETA)
-MARVEL: CROSSOVER LEGACY
+MARVEL: CROSSOVER LEGACY (BETA)
 
 The Ultimate Marvel & Capcom Arcade Fighting Collection
 
