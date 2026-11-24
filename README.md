@@ -1,5 +1,5 @@
-# Marvel-Crossover-Legacy
-MARVEL: CROSSOVER LEGACY
+# Marvel-Crossover-Legacy (Windows)
+MARVEL: CROSSOVER LEGACY (Windows)
 
 The Ultimate Marvel & Capcom Arcade Fighting Collection
 
